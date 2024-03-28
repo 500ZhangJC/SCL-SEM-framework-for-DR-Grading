@@ -4,7 +4,7 @@ Diabetic Retinopathy (DR), a leading cause of blindness globally, poses signific
 
 
 ## Datasets and Results
-The framework has been extensively validated on publicly available diabetic retinopathy grading datasets, such as EyePACS and Messidor, showcasing superior performance over existing methods. Detailed results and comparative analyses are provided to illustrate the advancements achieved by our model.
+The framework has been extensively validated on publicly available diabetic retinopathy grading datasets, such as EyePACS and Messidor, showcasing superior performance over existing methods. Detailed results and comparative analyses are provided to illustrate the advancements achieved by our model.(https://www.kaggle.com/competitions/diabetic-retinopathy-detection, https://www.adcis.net/en/third-party/messidor/)
 
 
 ## Contribute
