@@ -1,6 +1,7 @@
 # Enhancing-Contrastive-Learning-for-DR-Grading
 ## Overview
-Diabetic Retinopathy (DR), a leading cause of blindness globally, poses significant diagnostic challenges. The SCL-SEM (Semi-Supervised Contrastive Learning through Saliency Estimation Map) framework represents an innovative approach in the grading of DR, leveraging the power of deep learning to improve early detection and accurate grading. Our method integrates semi-supervised learning with contrastive learning, enhanced by a saliency estimation map, to address the scarcity of annotated medical images and the complexity of DR lesions and fundus physiological structures. This project aims to facilitate the development of efficient and reliable automated systems for DR grading, contributing significantly to the prevention of blindness caused by diabetic retinopathy.
+
+Diabetic Retinopathy (DR) is one of the leading causes of blindness worldwide, posing significant challenges in diagnosis. The SCL-SEM framework, which stands for semi-supervised contrastive learning through saliency estimation maps, represents an innovative approach to DR grading. It leverages the power of deep learning to enhance early detection and accurate grading. Our method combines semi-supervised learning and contrastive learning, augmented with saliency estimation maps, to address the scarcity of annotated medical images and the complexity of DR lesions and the retinal physiological structure. This project aims to promote the development of efficient and reliable automated systems for DR grading, making a significant contribution to preventing blindness caused by diabetic retinopathy.
 
 
 ## Datasets and Results
