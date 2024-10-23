@@ -8,7 +8,5 @@ Diabetic Retinopathy (DR) is one of the leading causes of blindness worldwide, p
 The framework has been extensively validated on publicly available diabetic retinopathy grading datasets, such as EyePACS and Messidor, showcasing superior performance over existing methods. Detailed results and comparative analyses are provided to illustrate the advancements achieved by our model.(https://www.kaggle.com/competitions/diabetic-retinopathy-detection, https://www.adcis.net/en/third-party/messidor/)
 
 
-## Contribute
-We welcome contributions from the community to further enhance the SCL-SEM framework. Whether you are looking to fix bugs, improve the code, or extend the model's capabilities, please feel free to fork the repository and submit your pull requests. For any questions or suggestions, open an issue on the GitHub page, and we'll be happy to discuss them.
-
-Join us in advancing the field of medical imaging and making a tangible impact on the fight against diabetic retinopathy.
+## Noting
+Due to the regulations of our research group and the relevance to our ongoing work, only a portion of the core code of this project is made available as open source. We hope this approach ensures the smooth progress of our related work and appreciate your understanding and support. Thank you for your interest in our project.
